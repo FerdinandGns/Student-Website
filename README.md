@@ -1,6 +1,6 @@
 # Student-Website
 Works and course notes made during my studies
 
-Optimal Transport(EN):
+Optimal Transport (EN):
 
-Fiches de révisions MPSI/MP (FR)
+Fiches de révisions MPSI/MP (FR):
