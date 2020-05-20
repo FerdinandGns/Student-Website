@@ -1,5 +1,5 @@
 # Student-Website
-- Works and course notes made during my studies -
+# Works and course notes made during my studies 
 
 Optimal Transport (EN):
 
