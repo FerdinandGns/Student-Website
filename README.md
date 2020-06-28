@@ -9,10 +9,12 @@ Works and course notes made during my studies
 - Cours / Lectures:
 
 Analysis:
+
 (FR) Analyse III - Pujo-Menjouet, cours agréable, sans preuves:
 http://math.univ-lyon1.fr/~pujo/analyse3.pdf
 
 Algebra:
+
 (FR) Algèbre III - Tchoudjem (Dunford-Jordan, Red. Jordan, Exp de matrices + Démos):
 http://math.univ-lyon1.fr/~tchoudjem/ENSEIGNEMENT/MATH-III-ALG/notes-cours.pdf
 (FR) ALgèbre IV - Ben Yaacov (concis, droit au but):
